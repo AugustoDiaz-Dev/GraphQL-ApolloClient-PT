@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 200px;
+}
+input, button {
+  margin: 8px;
+}
